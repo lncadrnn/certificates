@@ -31,7 +31,7 @@ This repository contains my certificates from various training programs and work
 
 ### 📑 Introduction to Excel: Basics and Fundamentals  
 📄 **Certificate:** [View PDF](Intro%20to%20Excel%20Certificate.pdf)  
-📅 **Issued Date:** [Insert Issued Date]  
+📅 **Issued Date:** March 22, 2025  
 🏛 **Organizers:** [Virtual Mentors](https://www.facebook.com/vmentorsph)  
 
 📌 **Topics Covered:**  
@@ -44,11 +44,11 @@ This repository contains my certificates from various training programs and work
 
 ### 📈 Advanced Excel  
 📄 **Certificate:** [View PDF](Advanced%20Excel%20Certificate.pdf)  
-📅 **Issued Date:** [Insert Issued Date]  
+📅 **Issued Date:** March 22, 2025
 🏛 **Organizers:** [Virtual Mentors](https://www.facebook.com/vmentorsph)  
 
 📌 **Topics Covered:**  
 - Advanced Excel Functions (VLOOKUP, INDEX-MATCH, IF Statements)  
 - Data Analysis with Pivot Tables  
 - Conditional Formatting and Data Validation  
-- Macros and Automation Techniques  
+- Power Query 
