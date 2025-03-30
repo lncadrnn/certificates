@@ -52,3 +52,16 @@ This repository contains my certificates from various training programs and work
 - Data Analysis with Pivot Tables  
 - Conditional Formatting and Data Validation  
 - Power Query 
+
+---
+
+### 📊 Business Intelligence with Power BI Desktop (Zero to Low Code Dashboard)  
+📄 **Certificate:** [View PDF](PowerBI%20Certificate.pdf)  
+📅 **Issued Date:** March 30, 2025  
+🏛 **Organizers:** [DataSense Analytics](https://www.facebook.com/datasenseph)  
+
+📌 **Topics Covered:**  
+- Connecting Power BI to Data Sources  
+- Data Preparation  
+- Data Modeling  
+- Dashboard Design
