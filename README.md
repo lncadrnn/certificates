@@ -20,6 +20,7 @@ This repository contains my certificates from various training programs and work
 ### 🌐 Basic Web Development Workshop  
 📄 **Certificate:** [View PDF](Basic%20Web%20Development%20Certificate.pdf)  
 📅 **Issued Date:** May 25, 2024
+
 🏛 **Organizers:** [Zuitt Tech Career Bootcamp](https://www.zuitt.co), [Computer Science Clique](https://www.facebook.com/cvsucomputerscienceclique)  
 
 📌 **Workshop Details:**  
@@ -74,7 +75,7 @@ This repository contains my certificates from various training programs and work
 🏛 **Organizers:** [Data Analytics Philippines](https://www.facebook.com/daphilsai)
 
 📌 **Topics Covered:**  
-- Python Basics and Syntax  
-- Variables, Data Types, and Operators  
-- Conditional Statements and Loops  
-- Functions and Basic Data Structures
+- Python Essentials (The Why, What and How)  
+- Installing Python and Jupyter Notebooks  
+- Running Python Scripts  
+- Basic Operations
