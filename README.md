@@ -78,3 +78,18 @@ This repository contains my certificates from various training programs and work
 - Installing Python and Jupyter Notebooks  
 - Running Python Scripts  
 - Basic Operations
+
+---
+
+### 📉 Introduction to Statistics  
+📄 **Certificate:** [View PDF](Statistics%20Certificate.pdf)  
+📅 **Issued Date:** May 5, 2025  
+🏛 **Organizers:** [Data Analytics Philippines](https://www.facebook.com/daphilsai) 
+
+📌 **Topics Covered:**  
+- Basic Statistical Concepts and Applications  
+- Types of Data and Variables  
+- Measures of Central Tendency and Dispersion  
+- Introduction to Probability and Data Interpretation
+
+---
