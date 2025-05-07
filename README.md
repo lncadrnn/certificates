@@ -87,9 +87,22 @@ This repository contains my certificates from various training programs and work
 🏛 **Organizers:** [Data Analytics Philippines](https://www.facebook.com/daphilsai) 
 
 📌 **Topics Covered:**  
-- Basic Statistical Concepts and Applications  
-- Types of Data and Variables  
-- Measures of Central Tendency and Dispersion  
-- Introduction to Probability and Data Interpretation
+- Descriptive Statistics
+- Inferential Statistics
+- Four Level of Measurement
+- Measures of Central Tendencies | Location | Dispersion with Statistical Analysis
+
+---
+
+### 📊 Data Analytics  
+📄 **Certificate:** [View PDF](Data%20Analytics%20Certificate.pdf)  
+📅 **Issued Date:** May 5, 2025  
+🏛 **Organizers:** [Data Analytics Philippines](https://www.facebook.com/daphilsai) 
+
+📌 **Topics Covered:**  
+- Data Analytics Fundamentals
+- Microsoft Excel Associate (Level 2) | Advanced Excel Formulas
+- Fundamentals of Statistics using Microsoft Excel
+- Business Intelligence with Power BI
 
 ---
